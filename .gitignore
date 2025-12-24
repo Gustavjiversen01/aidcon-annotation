@@ -16,11 +16,9 @@ images/*.tif
 images/*.tiff
 
 # Output folders (generated locally)
-masks/
-masks_preview/
+# masks/ and labels_json/ are now tracked for sharing
 auto_annotations/
 auto_preview/
-labels_json/*.json
 images/*.json
 
 # IDE
