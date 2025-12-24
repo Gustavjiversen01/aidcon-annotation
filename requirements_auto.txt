@@ -1,0 +1,7 @@
+# Requirements for auto-annotation with Grounded SAM 2
+# Install with: pip install -r requirements_auto.txt
+
+autodistill-grounded-sam-2
+supervision
+opencv-python
+numpy

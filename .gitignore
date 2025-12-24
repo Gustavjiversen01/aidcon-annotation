@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.env
+
+# Images (large files - keep in local only)
+images/*.jpg
+images/*.jpeg
+images/*.png
+images/*.tif
+images/*.tiff
+
+# Output folders (generated locally)
+masks/
+masks_preview/
+auto_annotations/
+auto_preview/
+labels_json/*.json
+images/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
